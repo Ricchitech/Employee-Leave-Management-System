@@ -23,28 +23,28 @@ It handle information about the employee. That serves as an platform for better 
   Employee
   
 ## Admin Features
-  Admin Login.
-  Admin can also view admin dashboard.
-  Admin can change password after login.
-  Admin can add leave type.
-  Admin can update leave type.
-  Admin can delete leave type.
-  Admin can add departments.
-  Admin can update departments.
-  Admin can delete departments.
-  Admin can add an employee and also update the employee info.
-  Admin can also manage the leave application(approve and not approve).
-  Admin Logout
+  ##### Admin Login.
+  ##### Admin can also view admin dashboard.
+  ##### Admin can change password after login.
+  ##### Admin can add leave type.
+  ##### Admin can update leave type.
+  ##### Admin can delete leave type.
+  ##### Admin can add departments.
+  ##### Admin can update departments.
+  ##### Admin can delete departments.
+  ##### Admin can add an employee and also update the employee info.
+  ##### Admin can also manage the leave application(approve and not approve).
+  ##### Admin Logout
   
   
 ## Employee
-  Employee login
-  Employee can Update Profile
-  Employee can apply for leave.
-  Employee can View the leave Status
-  Forget Password Recovery
-  Update Password
-  Employee Logout
+  ##### Employee login
+  ##### Employee can Update Profile
+  ##### Employee can apply for leave.
+  ##### Employee can View the leave Status
+  ##### Forget Password Recovery
+  ##### Update Password
+  ##### Employee Logout
   
   
 ## Software Requirements
@@ -67,10 +67,10 @@ Run Project
 Open Your browser and type "localhost/Employee-Leave-Management-System"
 
 #### Admin Login Details
-Username: admin
-Password: 12345
+###### Username: admin
+###### Password: 12345
 
 #### Employee Login Details
-Employeeid :EMP01 (When retrieving your password)
-Username: brg2288@gmail.com
-Password: 12345 
+###### Employeeid :EMP01 (When retrieving your password)
+###### Username: brg2288@gmail.com
+###### Password: 12345 
