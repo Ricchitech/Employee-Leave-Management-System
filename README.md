@@ -18,3 +18,59 @@ It handle information about the employee. That serves as an platform for better 
 
            Leave History Management Panel 
 
+##System Users
+  Admin
+  Employee
+  
+##Admin Features
+  Admin Login.
+  Admin can also view admin dashboard.
+  Admin can change password after login.
+  Admin can add leave type.
+  Admin can update leave type.
+  Admin can delete leave type.
+  Admin can add departments.
+  Admin can update departments.
+  Admin can delete departments.
+  Admin can add an employee and also update the employee info.
+  Admin can also manage the leave application(approve and not approve).
+  Admin Logout
+  
+  
+##Employee
+  Employee login
+  Employee can Update Profile
+  Employee can apply for leave.
+  Employee can View the leave Status
+  Forget Password Recovery
+  Update Password
+  Employee Logout
+  
+  
+##Software Requirements
+  WAMP server
+###Language Used
+  Front End(User Interface) : HTML 5,AJAX,JQUERY,JAVASCRIPT,BOOTSTRAP
+  Server Language : PHP
+  Back End : MYSQL
+  
+  
+##How to run Project
+Download and Unzip Project in Your root directory(wamp/www)
+
+Database Configuration
+Open phpmyadmin
+Create Blank Database "elms"
+
+Import database "elms.sql" (available inside project/database folder)
+Run Project
+Open Your browser and type "localhost/emls"
+
+Admin Login Details
+Username: admin
+Password: 12345
+
+Employee Login Details
+Employeeid :EMP01 (When retrieving your password)
+Username: brg2288@gmail.com
+Password: 12345
