@@ -58,19 +58,19 @@ It handle information about the employee. That serves as an platform for better 
 ## How to run Project
 Download and Unzip Project in Your root directory(wamp/www)
 
-Database Configuration
+### Database Configuration
 Open phpmyadmin
 Create Blank Database "elms"
 
-Import database "elms.sql" (available inside project/database folder)
+### Import database "elms.sql" (available inside project/database folder)
 Run Project
 Open Your browser and type "localhost/emls"
 
-Admin Login Details
+#### Admin Login Details
 Username: admin
 Password: 12345
 
-Employee Login Details
+#### Employee Login Details
 Employeeid :EMP01 (When retrieving your password)
 Username: brg2288@gmail.com
 Password: 12345 
