@@ -22,7 +22,7 @@ It handle information about the employee. That serves as an platform for better 
   Admin
   Employee
   
-##Admin Features
+## Admin Features
   Admin Login.
   Admin can also view admin dashboard.
   Admin can change password after login.
@@ -37,7 +37,7 @@ It handle information about the employee. That serves as an platform for better 
   Admin Logout
   
   
-##Employee
+## Employee
   Employee login
   Employee can Update Profile
   Employee can apply for leave.
@@ -47,15 +47,15 @@ It handle information about the employee. That serves as an platform for better 
   Employee Logout
   
   
-##Software Requirements
+## Software Requirements
   WAMP server
-###Language Used
+### Language Used
   Front End(User Interface) : HTML 5,AJAX,JQUERY,JAVASCRIPT,BOOTSTRAP
   Server Language : PHP
   Back End : MYSQL
   
   
-##How to run Project
+## How to run Project
 Download and Unzip Project in Your root directory(wamp/www)
 
 Database Configuration
