@@ -73,4 +73,4 @@ Password: 12345
 Employee Login Details
 Employeeid :EMP01 (When retrieving your password)
 Username: brg2288@gmail.com
-Password: 12345
+Password: 12345 
