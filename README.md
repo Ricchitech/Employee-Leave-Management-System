@@ -64,7 +64,7 @@ Create Blank Database "elms"
 
 ### Import database "elms.sql" (available inside project/database folder)
 Run Project
-Open Your browser and type "localhost/emls"
+Open Your browser and type "localhost/Employee-Leave-Management-System"
 
 #### Admin Login Details
 Username: admin
