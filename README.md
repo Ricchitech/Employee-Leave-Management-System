@@ -18,7 +18,7 @@ It handle information about the employee. That serves as an platform for better 
 
            Leave History Management Panel 
 
-##System Users
+## System Users
   Admin
   Employee
   
