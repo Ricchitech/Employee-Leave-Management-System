@@ -50,9 +50,9 @@ It handle information about the employee. That serves as an platform for better 
 ## Software Requirements
   WAMP server
 ### Language Used
-  Front End(User Interface) : HTML 5,AJAX,JQUERY,JAVASCRIPT,BOOTSTRAP
-  Server Language : PHP
-  Back End : MYSQL
+  ##### Front End(User Interface) : HTML 5,AJAX,JQUERY,JAVASCRIPT,BOOTSTRAP
+  ##### Server Language : PHP
+  ##### Back End : MYSQL
   
   
 ## How to run Project
