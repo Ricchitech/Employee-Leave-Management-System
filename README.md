@@ -16,5 +16,5 @@ It handle information about the employee. That serves as an platform for better 
 
 ![image](https://user-images.githubusercontent.com/35210955/109518026-e690cb80-7acf-11eb-8c53-15e6332ea39c.png)
 
-           Leave History Management Panel
+           Leave History Management Panel 
 
